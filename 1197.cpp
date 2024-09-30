@@ -1,3 +1,4 @@
+//백준 1197번: 최소 스패닝 트리
 #include <iostream>
 #include <algorithm>
 #include <vector>
