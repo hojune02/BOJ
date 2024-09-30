@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <queue>
+// 백준 1260번: DFS와 BFS
 
 using namespace std;
 
