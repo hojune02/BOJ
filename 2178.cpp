@@ -1,3 +1,4 @@
+//백준 2178번: 미로 탐색
 #include <iostream>
 #include <queue>
 #include <string>
