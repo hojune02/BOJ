@@ -1,5 +1,4 @@
 // 백준 1647번: 도시 분할 계획
-
 #include <iostream>
 #include <algorithm>
 #include <vector>
