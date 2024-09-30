@@ -2,7 +2,6 @@
 #include <vector>
 #include <algorithm>
 #include <queue>
-// 백준 1260번: DFS와 BFS
 
 using namespace std;
 
@@ -59,12 +58,12 @@ int main() {
     }
 
     // DFS
-    bool visited_dfs[N + 1] = { false };
+    bool visited_dfs[N + 1];
     dfs(V, adj, visited_dfs);
     cout << endl;
 
     // BFS
-    bool visited_bfs[N + 1] = { false };
+    bool visited_bfs[N + 1];
     bfs(V, adj, visited_bfs);
     cout << endl;
 
