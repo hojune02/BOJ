@@ -1,3 +1,4 @@
+// 백준 1806번: 부분합
 #include <iostream>
 #include <vector>
 #include <climits>
