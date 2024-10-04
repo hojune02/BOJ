@@ -1,3 +1,4 @@
+//백준 4153번: 직각삼각형
 #include <iostream>
 #include <cmath>
 #include <vector>

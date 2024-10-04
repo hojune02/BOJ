@@ -1,3 +1,4 @@
+//백준 2475번: 검증수
 #include <iostream>
 using namespace std;
 

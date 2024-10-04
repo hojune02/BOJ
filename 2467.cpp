@@ -1,3 +1,4 @@
+//백준 2467번: 용액
 #include <iostream>
 #include <algorithm>
 #include <climits>
